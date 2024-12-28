@@ -15,7 +15,6 @@ The status of currently listed [ElectrumX](https://electrumx.readthedocs.io/en/l
 **Note:** _Where ElectrumX or other infrastructure servers are maintained by third party service providers, contact details for service alerts must be provided. It is also recommended to set up monitoring via [Zabbix](https://www.zabbix.com/) and/or [https://1209k.com/bitcoin-eye/ele.php](https://1209k.com/bitcoin-eye/ele.php)_
 
 
-
 ### Currently supported coins & protocols
 
 AtomicDEX is a true non-custodial, cross-chain, cross-protocol Decentralized Exchange (DEX), allowing for trades between coins and tokens across many platforms and ecosystems, including:
