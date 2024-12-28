@@ -2723,7 +2723,7 @@
         "currently_enabled": false,
         "wallet_only": false,
         "light_wallet_d_servers": [
-            "https://zdeexlightd1.zdeex.org:443"
+            "https://zdeexlightd1.zdeexlightd.org:9447"
         ],
         "asset": "ZDEEX",
         "fname": "Zdeex",
