@@ -8,38 +8,60 @@ on:
       - 'utils/coins_config_ssl.json'
       - 'utils/coins_config_tcp.json'
       - 'utils/coins_config_wss.json'
-  schedule:
-    - cron:  '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write  # Добавление прав для записи
 
 jobs:
   update_configs:
     runs-on: ubuntu-latest
+
     steps:
+      # Шаг для клонирования репозитория
       - uses: actions/checkout@v4
 
+      # Установка зависимостей Python
+      - name: Install Python Dependencies
+        run: pip3 install -r ${GITHUB_WORKSPACE}/utils/requirements.txt
+
+      # Проверка прав на выполнение скрипта
+      - name: Check icons_resize.sh permission
+        run: ls -l ${GITHUB_WORKSPACE}/utils/icons_resize.sh
+      
+      # Создание изображений 128x128 в директории icons
       - name: Create 128x128 images in icons dir
         shell: bash
-        run:  ${GITHUB_WORKSPACE}/utils/icons_resize.sh
+        run: ${GITHUB_WORKSPACE}/utils/icons_resize.sh
 
-      - name: Generate configs
-        shell: bash
-        run:  pip3 install -r ${GITHUB_WORKSPACE}/utils/requirements.txt && ${GITHUB_WORKSPACE}/utils/generate_app_configs.py
+      # Генерация обновленных конфигурационных файлов
+      - name: Generate updated configs
+        run: python3 ${GITHUB_WORKSPACE}/utils/generate_app_configs.py
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
+      # Печать списка файлов в папке, чтобы удостовериться, что конфиги были созданы
+      - name: List files after generation
+        run: ls -la ${GITHUB_WORKSPACE}/utils/coins_config*.json
+
+      # Загружаем конфигурационные файлы как артефакт
+      - name: Upload generated configs as artifact
+        uses: actions/upload-artifact@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Update coins json file
-          committer: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-          author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-          branch: json-config-update
-          delete-branch: true
-          title: '[BOT] Update coins config json'
-          body: |
-            - Coins JSON config auto-generated on merge to master
-            - Electrum scan report updated
-          labels: |
-            config-update
-          reviewers: cipig, smk762, gcharang
-          draft: false
+          name: coins-configs
+          path: utils/coins_config*.json
+          if-no-files-found: warn
+          include-hidden-files: false
+
+      # Коммит и пуш изменений в репозиторий
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Используйте автоматический GITHUB_TOKEN
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add utils/coins_config*.json
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update coins config JSON files"
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:master
+          fi
