@@ -21,6 +21,10 @@ jobs:
       # Шаг для клонирования репозитория
       - uses: actions/checkout@v4
 
+      # Установка ImageMagick
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
       # Установка зависимостей Python
       - name: Install Python Dependencies
         run: pip3 install -r ${GITHUB_WORKSPACE}/utils/requirements.txt
