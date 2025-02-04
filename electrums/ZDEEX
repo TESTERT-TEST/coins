@@ -1,6 +1,6 @@
 [
    {
-      "url":"electrum.zdeex.org:17485",
+      "url":"electrum.zdeex.org:17487",
       "contact":[
          {
             "email":"contact@zdeex.org"
@@ -8,17 +8,17 @@
       ]
    },
    {
-      "url":"electrum.zdeex.org:50002",
+      "url":"electrum.zdeex.org:50005",
       "protocol":"SSL",
       "contact":[
          {
             "email":"contact@zdeex.org"
          }
       ],
-      "ws_url":"electrum.zdeex.org:50004"
+      "ws_url":"electrum.zdeex.org:50006"
    },
     {
-      "url":"electrum2.zdeex.org:17485",
+      "url":"electrum2.zdeex.org:17487",
       "contact":[
          {
             "email":"contact@zdeex.org"
@@ -26,13 +26,13 @@
       ]
    },
    {
-      "url":"electrum2.zdeex.org:50002",
+      "url":"electrum2.zdeex.org:50005",
       "protocol":"SSL",
       "contact":[
          {
             "email":"contact@zdeex.org"
          }
       ],
-      "ws_url":"electrum2.zdeex.org:50004"
+      "ws_url":"electrum2.zdeex.org:50006"
    }
 ]
