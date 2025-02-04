@@ -44,7 +44,7 @@ jobs:
 
       # Загружаем конфигурационные файлы как артефакт
       - name: Upload generated configs as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: coins-configs
           path: utils/coins_config*.json
