@@ -20205,6 +20205,11 @@
                 "url": "lbc.electrum2.cipig.net:30067",
                 "disable_cert_verification": false,
                 "protocol": "WSS"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:30067",
+                "disable_cert_verification": false,
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -20252,6 +20257,11 @@
             },
             {
                 "url": "lbc.electrum2.cipig.net:30067",
+                "disable_cert_verification": false,
+                "protocol": "WSS"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:30067",
                 "disable_cert_verification": false,
                 "protocol": "WSS"
             }
@@ -25976,15 +25986,6 @@
         "electrum": [
             {
                 "url": "electrum01.chainster.org:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ]
-            },
-            {
-                "url": "electrum02.chainster.org:50003",
                 "protocol": "WSS",
                 "contact": [
                     {

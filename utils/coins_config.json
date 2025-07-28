@@ -25274,6 +25274,20 @@
                 "url": "lbc.electrum2.cipig.net:30067",
                 "disable_cert_verification": false,
                 "protocol": "WSS"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:10067",
+                "protocol": "TCP"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:20067",
+                "disable_cert_verification": false,
+                "protocol": "SSL"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:30067",
+                "disable_cert_verification": false,
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -25339,6 +25353,20 @@
             },
             {
                 "url": "lbc.electrum2.cipig.net:30067",
+                "disable_cert_verification": false,
+                "protocol": "WSS"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:10067",
+                "protocol": "TCP"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:20067",
+                "disable_cert_verification": false,
+                "protocol": "SSL"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:30067",
                 "disable_cert_verification": false,
                 "protocol": "WSS"
             }
@@ -32716,33 +32744,6 @@
             },
             {
                 "url": "electrum01.chainster.org:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ]
-            },
-            {
-                "url": "electrum02.chainster.org:50001",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum02.chainster.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ]
-            },
-            {
-                "url": "electrum02.chainster.org:50003",
                 "protocol": "WSS",
                 "contact": [
                     {
