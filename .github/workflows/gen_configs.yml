@@ -35,7 +35,10 @@ jobs:
         run: |
           cargo install oxipng
           echo "$HOME/.cargo/bin" >> $GITHUB_PATH
-
+          
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+        
       - name: Create 128x128 images in icons dir
         shell: bash
         run:  ${GITHUB_WORKSPACE}/utils/icons_resize.sh
