@@ -2308,6 +2308,33 @@
       "homepage": "https://bitcoin.org"
     }
   },
+    {
+    "coin": "QTC",
+    "name": "qubitcoin",
+    "fname": "Qubitcoin",
+    "rpcport": 8332,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "bc",
+    "txfee": 0,
+    "estimate_fee_mode": "ECONOMICAL",
+    "mm2": 1,
+    "wallet_only": false,
+    "sign_message_prefix": "Qubitcoin Signed Message:\n",
+    "required_confirmations": 5,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/0'",
+    "trezor_coin": "Qubitcoin",
+    "links": {
+      "github": "https://github.com/super-quantum/qubitcoin",
+      "homepage": "https://superquantum.io"
+    }
+  },
   {
     "coin": "BKC",
     "name": "briskcoin",
