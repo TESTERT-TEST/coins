@@ -6875,7 +6875,7 @@
         "coin": "QTC",
         "type": "UTXO",
         "name": "Qubitcoin",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "qtc-qubitcoin",
         "coingecko_id": "",
         "livecoinwatch_id": "",
         "explorer_url": "https://explorer.superquantum.io",
@@ -13060,6 +13060,42 @@
             "github": "https://github.com/dime-coin/dimecoin/"
         },
         "electrum": [
+            {
+                "url": "electrumx1.dimecoinnetwork.com:50001",
+                "contact": [
+                    {
+                        "email": "developer@dimecoinnetwork.com"
+                    },
+                    {
+                        "discord": "dhop14#9359"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.dimecoinnetwork.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "developer@dimecoinnetwork.com"
+                    },
+                    {
+                        "discord": "dhop14#9359"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx1.dimecoinnetwork.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "developer@dimecoinnetwork.com"
+                    },
+                    {
+                        "discord": "dhop14#9359"
+                    }
+                ]
+            },
             {
                 "url": "electrumx2.dimecoinnetwork.com:50001",
                 "contact": [
@@ -52013,6 +52049,42 @@
                 ]
             },
             {
+                "url": "electrum2.runebase.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.runebase.io:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
                 "url": "electrum3.runebase.io:50001",
                 "protocol": "TCP",
                 "contact": [
@@ -53650,7 +53722,35 @@
             "github": "https://github.com/Bonkcoin/Bonkcoin-core",
             "homepage": "https://bonkscoin.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.bonkscoin.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "1157581316175437884"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.bonkscoin.io:50002",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "1157581316175437884"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.bonkscoin.io:50003",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "1157581316175437884"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "CAS": {
