@@ -2319,7 +2319,9 @@
     "segwit": true,
     "bech32_hrp": "bc",
     "txfee": 0,
-    "estimate_fee_mode": "ECONOMICAL",
+    "address_format": {
+        "format": "segwit"
+    },
     "mm2": 1,
     "wallet_only": false,
     "sign_message_prefix": "Qubitcoin Signed Message:\n",
@@ -2328,12 +2330,7 @@
     "protocol": {
       "type": "UTXO"
     },
-    "derivation_path": "m/44'/0'",
-    "trezor_coin": "Qubitcoin",
-    "links": {
-      "github": "https://github.com/super-quantum/qubitcoin",
-      "homepage": "https://superquantum.io"
-    }
+    "derivation_path": "m/44'/0'"
   },
   {
     "coin": "BKC",
