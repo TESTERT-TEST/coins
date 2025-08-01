@@ -5419,7 +5419,9 @@
         "segwit": true,
         "bech32_hrp": "bc",
         "txfee": 0,
-        "estimate_fee_mode": "ECONOMICAL",
+        "address_format": {
+            "format": "segwit"
+        },
         "mm2": 1,
         "required_confirmations": 5,
         "avg_blocktime": 600,
@@ -5427,11 +5429,6 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/0'",
-        "trezor_coin": "Qubitcoin",
-        "links": {
-            "github": "https://github.com/super-quantum/qubitcoin",
-            "homepage": "https://superquantum.io"
-        },
         "electrum": [
             {
                 "url": "electrum.komodo.ink:30008",
