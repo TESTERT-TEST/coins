@@ -52756,7 +52756,26 @@
             "github": "https://github.com/Meowcoin-Foundation/Meowcoin",
             "homepage": "https://www.mewccrypto.com/"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.mewccrypto.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.mewccrypto.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "IRISTEST": {
