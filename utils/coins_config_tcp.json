@@ -10499,17 +10499,17 @@
         "derivation_path": "m/44'/18'",
         "electrum": [
             {
-                "url": "dgc-ex-three.ewmci.online:50002",
-                "protocol": "SSL",
+                "url": "electrumx.dgc.ewmcx.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "dgc-ex-three.ewmci.online:50001",
+                "protocol": "TCP",
                 "contact": [
                     {
                         "discord": "475820011634819072"
                     }
                 ]
-            },
-            {
-                "url": "electrumx.dgc.ewmcx.org:50002",
-                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -24821,7 +24821,7 @@
         "coin": "MKR-KRC20",
         "type": "KRC-20",
         "name": "Maker",
-        "coinpaprika_id": "mkr-maker",
+        "coinpaprika_id": "",
         "coingecko_id": "maker",
         "livecoinwatch_id": "MKR",
         "explorer_url": "https://explorer.kcc.io/en/",
@@ -24865,7 +24865,7 @@
         "coin": "MKR-PLG20",
         "type": "Matic",
         "name": "Maker",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "mkr-maker",
         "coingecko_id": "",
         "livecoinwatch_id": "MKR",
         "explorer_url": "https://polygonscan.com/",
@@ -38895,8 +38895,8 @@
                 ]
             },
             {
-                "url": "xmy-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
+                "url": "xmy-ex-two.ewmci.online:50001",
+                "protocol": "TCP",
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -38952,8 +38952,8 @@
                 ]
             },
             {
-                "url": "xmy-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
+                "url": "xmy-ex-two.ewmci.online:50001",
+                "protocol": "TCP",
                 "contact": [
                     {
                         "discord": "475820011634819072"

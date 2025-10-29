@@ -22938,7 +22938,7 @@
         "coin": "MKR-PLG20",
         "type": "Matic",
         "name": "Maker",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "mkr-maker",
         "coingecko_id": "",
         "livecoinwatch_id": "MKR",
         "explorer_url": "https://polygonscan.com/",

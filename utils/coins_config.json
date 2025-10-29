@@ -12282,15 +12282,6 @@
                 ]
             },
             {
-                "url": "dgc-ex-three.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx.dgc.ewmcx.org:50001",
                 "protocol": "TCP"
             },
@@ -28857,7 +28848,7 @@
         "coin": "MKR-KRC20",
         "type": "KRC-20",
         "name": "Maker",
-        "coinpaprika_id": "mkr-maker",
+        "coinpaprika_id": "",
         "coingecko_id": "maker",
         "livecoinwatch_id": "MKR",
         "explorer_url": "https://explorer.kcc.io/en/",
@@ -28901,7 +28892,7 @@
         "coin": "MKR-PLG20",
         "type": "Matic",
         "name": "Maker",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "mkr-maker",
         "coingecko_id": "",
         "livecoinwatch_id": "MKR",
         "explorer_url": "https://polygonscan.com/",
@@ -45247,15 +45238,6 @@
                 ]
             },
             {
-                "url": "xmy-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "xmy-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
                 "contact": [
@@ -45333,15 +45315,6 @@
             {
                 "url": "xmy-ex-two.ewmci.online:50001",
                 "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "xmy-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "475820011634819072"
