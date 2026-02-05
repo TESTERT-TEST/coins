@@ -9,7 +9,11 @@
             "url": "https://bsc-dataseed3.bnbchain.org"
         },
         {
-            "url": "https://bsc.meowrpc.com"
+            "url": "https://bsc.api.pocket.network"
+        },
+        {
+            "url": "https://bsc-rpc.publicnode.com",
+            "ws_url": "wss://bsc-rpc.publicnode.com"
         },
         {
             "url": "https://bsc1.cipig.net:18655",
@@ -18,10 +22,6 @@
         {
             "url": "https://bsc3.cipig.net:18655",
             "ws_url": "wss://bsc3.cipig.net:38655"
-        },
-        {
-            "url": "https://bsc-rpc.publicnode.com",
-            "ws_url": "wss://bsc-rpc.publicnode.com"
         }
     ]
 }
