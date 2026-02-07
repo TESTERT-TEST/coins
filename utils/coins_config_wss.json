@@ -11305,6 +11305,11 @@
                 "url": "electrum1.egulden.org:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -35321,6 +35326,22 @@
             },
             {
                 "url": "el1.verus.io:17488",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "0x03-ctrlc@protonmail.com"
+                    },
+                    {
+                        "discord": "0x03#8822"
+                    },
+                    {
+                        "keybase": "bloodynora"
+                    }
+                ],
+                "disable_cert_verification": false
+            },
+            {
+                "url": "el2.verus.io:17488",
                 "protocol": "WSS",
                 "contact": [
                     {
