@@ -1910,5 +1910,9 @@
   "hrc.png": {
     "original": "96783c396b4ce0a295f2632c8b28fb1503291dec108a80cd76823422b9864d1d",
     "processed": "0f8567c8149302ff6b47c40f999dfe6b614a1216f97a6bd3d66e7ce56f8d6501"
+  },
+  "kmdcl.png": {
+    "original": "19359533f0b2d95ec80eae743841b37b4988944f307614330aa08c30e81daa02",
+    "processed": "7736d099c2a0a12f96b2dbfaf997466a7e47168ce7929bc2813a526a346ada3c"
   }
 }
