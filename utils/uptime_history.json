@@ -3034,7 +3034,8 @@
       },
       "wss://mainnet.gateway.tenderly.co": {
         "1755770395": "online",
-        "1770642083": "offline"
+        "1770642083": "offline",
+        "1770652311": "online"
       }
     }
   },
@@ -4861,6 +4862,22 @@
       },
       "kmd.electrum3.cipig.net:30001": {
         "1755770395": "online"
+      }
+    }
+  },
+  "KMDCL": {
+    "all": {
+      "1770652311": "online"
+    },
+    "by_server": {
+      "electrum.kmdclassic.com:50001": {
+        "1770652311": "online"
+      },
+      "electrum.kmdclassic.com:50002": {
+        "1770652311": "online"
+      },
+      "electrum.kmdclassic.com:50004": {
+        "1770652311": "online"
       }
     }
   },
