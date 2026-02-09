@@ -48,7 +48,7 @@ jobs:
           base: ${{ env.TARGET_BRANCH }}
           branch: config-generate/${{ env.TARGET_BRANCH }}
           delete-branch: true
-          title: '[BOT] Update coins config json'
+          title: "[BOT] Update coins config json for ${{ env.TARGET_BRANCH }}"
           body: |
             - Coins JSON config auto-generated from `${{ env.TARGET_BRANCH }}`
             - Electrum scan report updated
