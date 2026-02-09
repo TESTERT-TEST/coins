@@ -2767,11 +2767,13 @@
       },
       "ugly-bird-70.doi.works:50002": {
         "1755770395": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1770600592": "online"
       },
       "ugly-bird-70.doi.works:50004": {
         "1755770395": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1770600592": "online"
       }
     }
   },
@@ -3377,7 +3379,8 @@
   "FLOP": {
     "all": {
       "1755770395": "online",
-      "1770168231": "offline"
+      "1770168231": "offline",
+      "1770600592": "online"
     },
     "by_server": {
       "_metadata": {
@@ -3412,7 +3415,8 @@
       },
       "electrumx1.flopcoin.net:10001": {
         "1755770395": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1770600592": "online"
       },
       "electrumx1.flopcoin.net:10003": {
         "1755770395": "online",
@@ -3420,7 +3424,8 @@
       },
       "electrumx1.flopcoin.net:10004": {
         "1755770395": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1770600592": "online"
       },
       "electrumx2.flopcoin.net:10001": {
         "1755770395": "online",
@@ -5880,7 +5885,8 @@
         "1769143421": "online",
         "1769476724": "offline",
         "1769498555": "online",
-        "1770427388": "offline"
+        "1770427388": "offline",
+        "1770600592": "online"
       },
       "wss://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -6652,7 +6658,8 @@
         "1769044482": "offline",
         "1769130853": "online",
         "1769476724": "offline",
-        "1769532251": "online"
+        "1769532251": "online",
+        "1770600592": "offline"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
