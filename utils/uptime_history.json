@@ -3033,7 +3033,8 @@
         "1755770395": "online"
       },
       "wss://mainnet.gateway.tenderly.co": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1770642083": "offline"
       }
     }
   },
@@ -3727,6 +3728,14 @@
       },
       "gleecold.electrum3.cipig.net:30022": {
         "1755770395": "online"
+      }
+    }
+  },
+  "GLEECT": {
+    "all": {},
+    "by_server": {
+      "https://rpc.gleec.dev": {
+        "1770642083": "online"
       }
     }
   },
