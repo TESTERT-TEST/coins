@@ -46,7 +46,7 @@ jobs:
           committer: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
           author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
           base: ${{ env.TARGET_BRANCH }}
-          branch: json-config-update
+          branch: json-config-update/${{ env.TARGET_BRANCH }}
           delete-branch: true
           title: '[BOT] Update coins config json'
           body: |
