@@ -35,12 +35,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -242,10 +242,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -304,10 +300,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -492,12 +484,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -598,10 +590,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -898,10 +886,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -961,12 +945,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -1006,10 +990,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -1131,10 +1111,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -1344,10 +1320,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1471,6 +1443,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -1510,10 +1486,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -1747,10 +1719,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1812,6 +1780,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -1906,10 +1878,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -2420,10 +2388,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -2488,6 +2452,10 @@
             {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -2703,10 +2671,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -2902,10 +2866,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -3068,6 +3028,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -3108,12 +3072,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -3208,10 +3172,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -3440,10 +3400,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -3557,12 +3513,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -3605,10 +3561,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -3973,10 +3925,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -4301,10 +4249,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -4471,12 +4415,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -4516,10 +4460,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -5042,10 +4982,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -5211,10 +5147,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -5332,10 +5264,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -5445,10 +5373,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -5571,12 +5495,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -6273,10 +6197,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -6617,12 +6537,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -6716,10 +6636,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -6886,6 +6802,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -6971,10 +6891,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -7427,10 +7343,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -7548,10 +7460,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -7671,6 +7579,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -7972,10 +7884,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -8088,10 +7996,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -8364,12 +8268,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -8470,10 +8374,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -8595,10 +8495,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -8793,10 +8689,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -8858,6 +8750,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -8898,12 +8794,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -9106,10 +9002,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -9287,12 +9179,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -9336,10 +9228,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -9644,10 +9532,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -9710,10 +9594,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -9772,10 +9652,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -10095,10 +9971,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -10723,6 +10595,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -10818,10 +10694,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -11416,10 +11288,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -11539,10 +11407,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -11665,10 +11529,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -11890,10 +11750,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -11954,12 +11810,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -12002,6 +11858,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -12209,12 +12069,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -12304,10 +12164,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -12369,6 +12225,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -12408,10 +12268,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -12533,10 +12389,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -12663,10 +12515,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -12887,10 +12735,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -13010,10 +12854,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -13072,10 +12912,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -13296,10 +13132,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -14015,10 +13847,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -14347,10 +14175,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -14466,10 +14290,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -14592,12 +14412,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -14693,10 +14513,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -14807,10 +14623,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -15232,10 +15044,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -15522,6 +15330,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -15570,12 +15382,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -15619,10 +15431,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -15739,6 +15547,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -15894,10 +15706,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -16076,6 +15884,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -16116,12 +15928,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -16166,10 +15978,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -16343,10 +16151,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16459,10 +16263,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -16581,10 +16381,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -16707,10 +16503,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16824,10 +16616,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16940,10 +16728,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -17424,10 +17208,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -17544,10 +17324,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -17661,10 +17437,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -17890,10 +17662,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -18302,12 +18070,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -18398,10 +18166,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -18587,12 +18351,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -18683,10 +18447,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -18859,10 +18619,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -19394,12 +19150,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -19500,10 +19256,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -20306,10 +20058,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -20431,12 +20179,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -21044,10 +20792,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21173,10 +20917,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21289,10 +21029,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21352,12 +21088,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -21620,10 +21356,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21793,10 +21525,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21860,10 +21588,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -21984,10 +21708,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22049,6 +21769,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -22362,10 +22086,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22588,10 +22308,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -22833,10 +22549,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22896,10 +22608,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -23160,10 +22868,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -23226,10 +22930,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -23341,10 +23041,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -23455,12 +23151,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -23555,10 +23251,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -23684,10 +23376,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -23747,12 +23435,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -23948,10 +23636,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -24013,6 +23697,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -24440,10 +24128,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -24883,10 +24567,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -25154,10 +24834,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -25270,10 +24946,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -25457,10 +25129,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -25676,10 +25344,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -25847,10 +25511,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -26044,6 +25704,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -26083,10 +25747,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -26200,10 +25860,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -26323,6 +25979,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -26514,10 +26174,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -26642,10 +26298,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -26814,10 +26466,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -26981,10 +26629,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -27097,10 +26741,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -27275,10 +26915,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -27815,10 +27451,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -27882,10 +27514,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -28085,10 +27713,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -28334,10 +27958,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -28400,10 +28020,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -28462,10 +28078,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -28955,10 +28567,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29071,10 +28679,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -29197,10 +28801,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29264,10 +28864,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -29501,10 +29097,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -29792,12 +29384,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -29892,10 +29484,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -30130,10 +29718,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -30268,6 +29852,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -30308,12 +29896,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -30354,12 +29942,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -30574,10 +30162,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -30745,12 +30329,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -30845,10 +30429,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -31121,10 +30701,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -31183,10 +30759,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -31360,12 +30932,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -31566,10 +31138,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -31682,6 +31250,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -31767,10 +31339,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -31990,10 +31558,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -32273,10 +31837,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -32546,12 +32106,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -32749,10 +32309,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -32867,10 +32423,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -32930,12 +32482,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -33084,10 +32636,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -33250,12 +32798,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -33295,10 +32843,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -33413,12 +32957,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -33462,10 +33006,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -33688,6 +33228,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -33774,12 +33318,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -33820,12 +33364,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -33869,10 +33413,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -34206,10 +33746,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -34383,6 +33919,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -34431,12 +33971,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -34477,12 +34017,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -34581,10 +34121,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -34972,10 +34508,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -35034,10 +34566,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -35565,10 +35093,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -35690,10 +35214,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -35752,10 +35272,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -35818,6 +35334,10 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org",
+                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -35858,12 +35378,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -36016,10 +35536,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -36181,10 +35697,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -36656,10 +36168,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -36723,10 +36231,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -37195,12 +36699,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -37301,10 +36805,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -37481,10 +36981,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -37862,12 +37358,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -37912,10 +37408,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -38110,10 +37602,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -38886,10 +38374,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -38952,10 +38436,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39021,10 +38501,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39089,10 +38565,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39152,10 +38624,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39214,10 +38682,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39282,10 +38746,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39344,10 +38804,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39413,10 +38869,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39479,10 +38931,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39548,10 +38996,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39610,10 +39054,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39677,10 +39117,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39746,10 +39182,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39809,10 +39241,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39871,10 +39299,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39939,10 +39363,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -40002,10 +39422,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -40064,10 +39480,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -40178,10 +39590,6 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -41169,42 +40577,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "IRISTEST": {
-        "coin": "IRISTEST",
-        "type": "TENDERMINT",
-        "name": "Iris Test",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://nyancat.iobscan.io/",
-        "explorer_tx_url": "#/txs/",
-        "explorer_address_url": "#/address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": true,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "avg_blocktime": 7,
-        "fname": "Iris Test",
-        "mm2": 1,
-        "protocol": {
-            "type": "TENDERMINT",
-            "protocol_data": {
-                "decimals": 6,
-                "denom": "unyan",
-                "account_prefix": "iaa",
-                "chain_id": "nyancat-9",
-                "gas_price": 0.5
-            }
-        },
-        "derivation_path": "m/44'/118'",
-        "rpc_urls": [
-            {
-                "url": "http://34.80.202.172:26657"
-            }
-        ],
-        "explorer_block_url": "#/blocks/"
-    },
     "IRISTEST-IBC_NUCLEUSTEST": {
         "coin": "IRISTEST-IBC_NUCLEUSTEST",
         "type": "TENDERMINTTOKEN",
@@ -41388,10 +40760,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -41452,12 +40820,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://0xrpc.io/avax",
-                "ws_url": "wss://0xrpc.io/avax"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            },
+            {
+                "url": "https://avalanche.drpc.org",
+                "ws_url": "wss://avalanche.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
