@@ -6357,6 +6357,10 @@
             {
                 "url": "electrumserver01.globalboost.info:50014",
                 "protocol": "SSL"
+            },
+            {
+                "url": "electrumserver02.globalboost.info:50014",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
@@ -16744,6 +16748,13 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
+        "swap_contract_address": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
+        "fallback_swap_contract": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
+        "nodes": [
+            {
+                "url": "https://rpc.gleec.dev"
+            }
+        ],
         "electrum": [
             {
                 "url": "gleec.electrum1.cipig.net:20025",
@@ -16786,7 +16797,7 @@
     },
     "GLEECT": {
         "coin": "GLEECT",
-        "type": "ETH",
+        "type": "GRC-20",
         "name": "Gleec Testnet",
         "coinpaprika_id": "",
         "coingecko_id": "",

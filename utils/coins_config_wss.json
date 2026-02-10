@@ -5548,6 +5548,10 @@
             {
                 "url": "electrumserver01.globalboost.info:50013",
                 "protocol": "WSS"
+            },
+            {
+                "url": "electrumserver02.globalboost.info:50013",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -14968,6 +14972,13 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
+        "swap_contract_address": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
+        "fallback_swap_contract": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
+        "nodes": [
+            {
+                "url": "https://rpc.gleec.dev"
+            }
+        ],
         "electrum": [
             {
                 "url": "gleec.electrum1.cipig.net:30025",
