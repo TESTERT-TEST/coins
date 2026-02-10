@@ -6330,6 +6330,26 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "KMD-GRC20",
+    "name": "kmd_grc20",
+    "fname": "KMD",
+    "is_testnet": true,
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 11169,
+    "decimals": 18,
+    "required_confirmations": 3,
+    "avg_blocktime": 2.6,
+    "protocol": {
+      "type": "GRC20",
+      "protocol_data": {
+        "platform": "GLEECT",
+        "contract_address": "0xB749CEC294d460ae75ec4efEe227fE0baFcb6ACd"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "GLM-ERC20",
     "name": "glm_erc20",
     "fname": "Golem",
