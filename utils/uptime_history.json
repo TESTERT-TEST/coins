@@ -1369,15 +1369,18 @@
       },
       "electrumserver02.globalboost.info:50011": {
         "1755770395": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1770759117": "online"
       },
       "electrumserver02.globalboost.info:50013": {
         "1755770395": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1770759117": "online"
       },
       "electrumserver02.globalboost.info:50014": {
         "1755770395": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1770759117": "online"
       }
     }
   },
@@ -3695,6 +3698,9 @@
       },
       "gleec.electrum3.cipig.net:30025": {
         "1755770395": "online"
+      },
+      "https://rpc.gleec.dev": {
+        "1770759117": "online"
       }
     }
   },
