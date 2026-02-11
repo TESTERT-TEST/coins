@@ -2828,9 +2828,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -16832,6 +16829,47 @@
         ],
         "explorer_block_url": "block/"
     },
+    "KMDT-GRC20": {
+        "coin": "KMDT-GRC20",
+        "type": "GRC-20",
+        "name": "KMD Testnet",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.gleec.dev/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": true,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "KMD Testnet",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 11169,
+        "decimals": 18,
+        "required_confirmations": 3,
+        "avg_blocktime": 2.6,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "GLEECT",
+                "contract_address": "0xB749CEC294d460ae75ec4efEe227fE0baFcb6ACd"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "contract_address": "0xB749CEC294d460ae75ec4efEe227fE0baFcb6ACd",
+        "parent_coin": "GLEECT",
+        "swap_contract_address": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
+        "fallback_swap_contract": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
+        "nodes": [
+            {
+                "url": "https://rpc.gleec.dev"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "GLM-ERC20": {
         "coin": "GLM-ERC20",
         "type": "ERC-20",
@@ -28159,9 +28197,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://1rpc.io/one"
-            },
             {
                 "url": "https://api.harmony.one"
             },
