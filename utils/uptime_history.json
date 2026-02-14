@@ -2979,7 +2979,8 @@
     "all": {},
     "by_server": {
       "https://etc.etcdesktop.com": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1771033788": "offline"
       },
       "https://etc.rivet.link": {
         "1755770395": "online"
@@ -3100,7 +3101,8 @@
         "1761238027": "online"
       },
       "wss://base.gateway.tenderly.co": {
-        "1761238027": "online"
+        "1761238027": "online",
+        "1771033788": "offline"
       }
     }
   },
@@ -3864,17 +3866,20 @@
       "electrum.niftybakes.com:50001": {
         "1755770395": "online",
         "1767483691": "offline",
-        "1768871563": "online"
+        "1768871563": "online",
+        "1771033788": "offline"
       },
       "electrum.niftybakes.com:50002": {
         "1755770395": "online",
         "1767483691": "offline",
-        "1768871563": "online"
+        "1768871563": "online",
+        "1771033788": "offline"
       },
       "electrum.niftybakes.com:50004": {
         "1755770395": "online",
         "1767483691": "offline",
-        "1768871563": "online"
+        "1768871563": "online",
+        "1771033788": "offline"
       },
       "fr.garlium.crapules.org:50002": {
         "1755770395": "offline"
@@ -9047,14 +9052,16 @@
         "1762321286": "offline",
         "1763079262": "online",
         "1767483691": "offline",
-        "1768612207": "online"
+        "1768612207": "online",
+        "1771033788": "offline"
       },
       "zet-ex-four.ewmci.online:50002": {
         "1755770395": "online",
         "1762321286": "offline",
         "1763079262": "online",
         "1767483691": "offline",
-        "1768612207": "online"
+        "1768612207": "online",
+        "1771033788": "offline"
       },
       "zet-ex-four.ewmci.online:50003": {
         "1755770395": "offline"

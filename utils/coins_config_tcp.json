@@ -13187,9 +13187,6 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
-                "url": "https://etc.etcdesktop.com"
-            },
-            {
                 "url": "https://etc.rivet.link"
             },
             {
@@ -17604,15 +17601,6 @@
                 "contact": [
                     {
                         "discord": "orpheas#1503"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.niftybakes.com:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "405566674448810005"
                     }
                 ]
             }
@@ -41877,15 +41865,6 @@
             "homepage": "https://zetacoin.io"
         },
         "electrum": [
-            {
-                "url": "zet-ex-four.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "zet-ex-three.ewmci.online:50012",
                 "protocol": "SSL",
